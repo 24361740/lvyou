@@ -144,15 +144,15 @@ div[class*=btn]:hover{
 .nav-son>li:hover a{
     color:#37C58A;
 }
-.zhuti{
-    background: #fff;
-    width:182px;
-    padding:0 22px;
-    box-sizing: border-box;
-    display: none;
-    border-radius: 5px;
-    padding-bottom: 10px;
-}
+/*.zhuti{*/
+    /*background: #fff;*/
+    /*width:182px;*/
+    /*padding:0 22px;*/
+    /*box-sizing: border-box;*/
+    /*display: none;*/
+    /*border-radius: 5px;*/
+    /*padding-bottom: 10px;*/
+/*}*/
 .zhuti>li{
     line-height: 38px;
     font-size: 14px;
